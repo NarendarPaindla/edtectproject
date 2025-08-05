@@ -5,6 +5,7 @@
 3. venv\Scripts\activate
 4. pip install -r requirements.txt
 5. Add the .env file in the backend folder
+6. uvicorn app.main:app --reload
 ```
 
 # .env
