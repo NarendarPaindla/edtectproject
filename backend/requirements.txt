@@ -12,3 +12,4 @@ transformers
 torch
 hf_xet
 pydantic_settings
+pydantic[email]
