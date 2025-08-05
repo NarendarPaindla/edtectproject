@@ -21,6 +21,7 @@ HF_API_KEY=
 
 ## Folder Structure
 
+```
 edtech-adaptive-learning-platform/
 ├── backend/
 │   ├── app/
@@ -102,3 +103,4 @@ edtech-adaptive-learning-platform/
 │       └── …
 ├── .gitignore
 └── README.md
+```
