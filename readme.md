@@ -104,3 +104,29 @@ edtech-adaptive-learning-platform/
 ├── .gitignore
 └── README.md
 ```
+
+
+# API CALLS
+## POST http://localhost:8000/api/v1/auth/register
+
+Request
+
+```
+{
+  "email": "vishnu@example.com",
+  "password": "securePass123",
+  "role": "teacher",
+  "name": "vishnu"
+}
+```
+
+Response
+
+```
+{
+    "id": "6891c96e83e557ce831de447",
+    "email": "vishnu@example.com",
+    "role": "teacher",
+    "name": "vishnu"
+}
+```
