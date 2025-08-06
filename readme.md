@@ -132,7 +132,6 @@ Response
 ```
 
 
-<img width="920" height="539" alt="image" src="https://github.com/user-attachments/assets/d7212d1b-92ce-477e-94a3-761e5165b089" />
 <img width="2634" height="1060" alt="image" src="https://github.com/user-attachments/assets/b0199c31-1733-49c8-a9cf-3564d6646359" />
 <img width="2542" height="1554" alt="image" src="https://github.com/user-attachments/assets/d84f8f94-f4fe-4643-bcf8-c7dcf7028259" />
 <img width="2515" height="1057" alt="image" src="https://github.com/user-attachments/assets/52a86948-2004-4480-895f-e50e15687e41" />
